@@ -9,3 +9,4 @@ With this Device Handler you can Turn On or Off a Shelly device with these comma
 
 turn on: http://192.168.xxx.xxx/relay/0?turn=on   
 turn off: http://192.168.xxx.xxx/relay/0?turn=off
+
